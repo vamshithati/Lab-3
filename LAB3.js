@@ -28,4 +28,3 @@ tipForm.addEventListener('input', function () {
 
 // Trigger the input event initially to set default values
 tipForm.dispatchEvent(new Event('input'));
-
